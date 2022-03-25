@@ -20,6 +20,6 @@ body {
         <li style="color:red;font-family:Fantasy";>placeholder</li>
         <li style="color:red;font-family:Fantasy";>placeholder</li>
       </ul> 
-    <right>
+    </right>
 </body>
 </html>
